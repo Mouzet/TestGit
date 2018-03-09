@@ -1,14 +1,14 @@
 
 public class TestGit {
 
-	private String gitFromStart;
+	private String SMB;
 	
 	public String returnTheString() {
 		
-		return this.gitFromStart;
+		return this.SMB;
 	}
 	public TestGit(String parameter) {
 		
-		this.gitFromStart = parameter;
+		this.SMB = parameter;
 	}
 }
